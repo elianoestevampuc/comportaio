@@ -57,4 +57,4 @@ docker-compose up
 ```
 
 ## Visualizar a aplicação
-Para visualiazar a aplicação, acesse a URL [http://localhost/comporta.io](http://localhost/comporta.io) no browser.
+Para visualizar a aplicação, acesse a URL [http://localhost/comporta.io](http://localhost/comporta.io) no browser.
