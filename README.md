@@ -21,10 +21,10 @@ Realizada as configurações iniciais, o próximo passo será a marcação se o 
 
 ## Arquitetura
 A solução é composta por 2 camadas:
-1) [Frontend](../comportaio-frontend/) >> Aplicação visual do sistema, onde o usuário executa as funcionalidades;
+1) [Frontend](https://github.com/elianoestevampuc/comportaio-frontend) >> Aplicação visual do sistema, onde o usuário executa as funcionalidades;
 2) Microsserviços:
-- [API Rotina](../comportaio-api-rotina/)  >> API para manter as operações da rotina;
-- [API Pessoa](../comportaio-api-pessoa/)  >> API para manter as operações de cadastro da pessoa, eventos e padrões;
+- [API Rotina](https://github.com/elianoestevampuc/comportaio-api-rotina)  >> API para manter as operações da rotina;
+- [API Pessoa](https://github.com/elianoestevampuc/comportaio-api-pessoa)  >> API para manter as operações de cadastro da pessoa, eventos e padrões;
 - [API de Imagens](https://www.pexels.com/pt-br/api/) >> API externa, pública, para recuperar fotos com expressões. 
 
 <p align="center" style="margin: 40px 0">
