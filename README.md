@@ -39,6 +39,8 @@ A API se chama [PEXELS](https://www.pexels.com/pt-br/api/).
     <img src="https://github.com/elianoestevampuc/comportaio-frontend/raw/main/img/api_externa.png" height="100%">
 </p>
 
+> ⚠️ O uso das fotos da API são gratuitas, conforme descrito a página https://www.pexels.com/pt-BR/licenca
+
 Antes de usar a API, é necessário realizar o cadastro na plataforma e gerar um token de acesso.
 
 Exemplo de uso:
@@ -46,7 +48,13 @@ Exemplo de uso:
     <img src="https://github.com/elianoestevampuc/comportaio-frontend/raw/main/img/exemplo_api_externa.png" height="100%">
 </p>
 
-O uso das fotos da API são gratuitas, conforme descrito na página:
-<p align="center" style="margin: 40px 0">
-    <img src="https://github.com/elianoestevampuc/comportaio-frontend/raw/main/img/api_externa_licenca.png" height="100%">
-</p>
+
+## Executar a aplicação
+Para executar a aplicação, execute o comando:
+
+```
+docker-compose up
+```
+
+## Visualizar a aplicação
+Para visualiazar a aplicação, acesse a URL [http://localhost/comporta.io](http://localhost/comporta.io) no browser.
