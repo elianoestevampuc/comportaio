@@ -15,7 +15,7 @@ Realizada as configurações iniciais, o próximo passo será a marcação se o 
 ## Pré-visualização
 
 <p align="center" style="margin: 40px 0">
-    <img src="../comportaio-frontend/img/tela.png" height="100%">
+    <img src="https://github.com/elianoestevampuc/comportaio-frontend/raw/main/img/tela.png" height="100%">
 </p>
 
 
@@ -28,7 +28,7 @@ A solução é composta por 2 camadas:
 - [API de Imagens](https://www.pexels.com/pt-br/api/) >> API externa, pública, para recuperar fotos com expressões. 
 
 <p align="center" style="margin: 40px 0">
-    <img src="../comportaio-frontend/img/arquitetura_mvp.jpg" height="100%">
+    <img src="https://github.com/elianoestevampuc/comportaio-frontend/raw/main/img/arquitetura_mvp.jpg" height="100%">
 </p>
 
 ## API de Imagens
@@ -36,17 +36,17 @@ Para ilustrar a representação do comportamento da pessoa, o sistema está cons
 A API se chama [PEXELS](https://www.pexels.com/pt-br/api/).
 
 <p align="center" style="margin: 40px 0">
-    <img src="../comportaio-frontend/img/api_externa.png" height="100%">
+    <img src="https://github.com/elianoestevampuc/comportaio-frontend/raw/main/img/api_externa.png" height="100%">
 </p>
 
 Antes de usar a API, é necessário realizar o cadastro na plataforma e gerar um token de acesso.
 
 Exemplo de uso:
 <p align="center" style="margin: 40px 0">
-    <img src="../comportaio-frontend/img/exemplo_api_externa.png" height="100%">
+    <img src="https://github.com/elianoestevampuc/comportaio-frontend/raw/main/img/exemplo_api_externa.png" height="100%">
 </p>
 
 O uso das fotos da API são gratuitas, conforme descrito na página:
 <p align="center" style="margin: 40px 0">
-    <img src="../comportaio-frontend/img/api_externa_licenca.png" height="100%">
+    <img src="https://github.com/elianoestevampuc/comportaio-frontend/raw/main/img/api_externa_licenca.png" height="100%">
 </p>
