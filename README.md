@@ -1,7 +1,7 @@
 # PUC Rio - Engenharia de Software
 # MVP da **Sprint Arquitetura de Software** 
 
-Meu MVP tem como objetivo resolver a dor de pessoas dentro do espectro autista nível 2 e 3. Essa dor está relacionada a identificação de possíveis mudanças de comportamentos.
+Esse MVP tem como objetivo resolver a dor de pessoas dentro do espectro autista nível 2 e 3. Essa dor está relacionada a identificação de possíveis mudanças de comportamentos.
 
 O sistema desenvolvido foi nomeado como Comporta.io.
 
